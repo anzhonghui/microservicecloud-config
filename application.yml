@@ -1,9 +1,9 @@
-Spring:
+﻿spring:
     profiles:
         active:
         - dev
 ---
-Spring:
+spring:
     profiles : dev # 开发环境
     appllcatlo :
         name : microservicecloud-config-atguigu-dev
